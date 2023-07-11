@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.talk-btn {
+  font-size: '17px';
+  font-weight: 'bold';
+  padding: '10px 18px';
+  border-radius: '10px';
+  background-color: '#323232';
+  color: 'white';
+  border: 'none';
+  outline: 'none';
+  cursor: 'pointer';
+}
+
+.talk-btn:hover {
+  color: 'black';
+  background-color: 'white';
+}
